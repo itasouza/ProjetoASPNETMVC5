@@ -1,0 +1,16 @@
+C:\GitHub\ProjetoASPNETMVC5\ASPNETMVC5\Teste\bin\Debug\Teste.exe.config
+C:\GitHub\ProjetoASPNETMVC5\ASPNETMVC5\Teste\bin\Debug\Teste.exe
+C:\GitHub\ProjetoASPNETMVC5\ASPNETMVC5\Teste\bin\Debug\Teste.pdb
+C:\GitHub\ProjetoASPNETMVC5\ASPNETMVC5\Teste\bin\Debug\EntityFramework.dll
+C:\GitHub\ProjetoASPNETMVC5\ASPNETMVC5\Teste\bin\Debug\EntityFramework.SqlServer.dll
+C:\GitHub\ProjetoASPNETMVC5\ASPNETMVC5\Teste\bin\Debug\Modelos.dll
+C:\GitHub\ProjetoASPNETMVC5\ASPNETMVC5\Teste\bin\Debug\MetodosDeExtension.dll
+C:\GitHub\ProjetoASPNETMVC5\ASPNETMVC5\Teste\bin\Debug\Modelos.pdb
+C:\GitHub\ProjetoASPNETMVC5\ASPNETMVC5\Teste\bin\Debug\Modelos.dll.config
+C:\GitHub\ProjetoASPNETMVC5\ASPNETMVC5\Teste\bin\Debug\EntityFramework.xml
+C:\GitHub\ProjetoASPNETMVC5\ASPNETMVC5\Teste\bin\Debug\EntityFramework.SqlServer.xml
+C:\GitHub\ProjetoASPNETMVC5\ASPNETMVC5\Teste\obj\Debug\Teste.csprojAssemblyReference.cache
+C:\GitHub\ProjetoASPNETMVC5\ASPNETMVC5\Teste\obj\Debug\Teste.csproj.CoreCompileInputs.cache
+C:\GitHub\ProjetoASPNETMVC5\ASPNETMVC5\Teste\obj\Debug\Teste.csproj.CopyComplete
+C:\GitHub\ProjetoASPNETMVC5\ASPNETMVC5\Teste\obj\Debug\Teste.exe
+C:\GitHub\ProjetoASPNETMVC5\ASPNETMVC5\Teste\obj\Debug\Teste.pdb

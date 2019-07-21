@@ -1,0 +1,40 @@
+20/07/2019 22:57:06
+Message: No connection string named 'ASPNETMVC5' could be found in the application config file.
+----------------------------------------
+StackTrace:    em System.Data.Entity.Internal.LazyInternalConnection.get_ConnectionHasModel()
+   em System.Data.Entity.Internal.LazyInternalContext.InitializeContext()
+   em System.Data.Entity.Internal.InternalContext.Initialize()
+   em System.Data.Entity.Internal.InternalContext.GetEntitySetAndBaseTypeForType(Type entityType)
+   em System.Data.Entity.Internal.Linq.InternalSet`1.Initialize()
+   em System.Data.Entity.Internal.Linq.InternalSet`1.get_InternalContext()
+   em System.Data.Entity.Internal.Linq.InternalSet`1.ActOnSet(Action action, EntityState newState, Object entity, String methodName)
+   em System.Data.Entity.Internal.Linq.InternalSet`1.Add(Object entity)
+   em System.Data.Entity.DbSet`1.Add(TEntity entity)
+   em Modelos.Repositorio`1.Create(TEntity toCreate) na C:\GitHub\ProjetoASPNETMVC5\ASPNETMVC5\Modelos\Repositorio.cs:linha 31
+----------------------------------------
+Source: EntityFramework
+----------------------------------------
+----------------------------------------
+Entity of type "Estatu" in state "State" has the following validation errors:
+- Property: "Descripcion", Error: "O campo Descripcion deve ser uma cadeia de caracteres ou tipo de matriz com comprimento máximo de '10'."
+----------------------------------------
+20/07/2019 23:04:08
+Message: Valor não pode ser nulo.
+Nome do parâmetro: entity
+----------------------------------------
+StackTrace:    em System.Data.Entity.Utilities.Check.NotNull[T](T value, String parameterName)
+   em System.Data.Entity.DbContext.Entry[TEntity](TEntity entity)
+   em Modelos.Repositorio`1.Update(Expression`1 criterio, String propertyName, Object valor) na C:\GitHub\ProjetoASPNETMVC5\ASPNETMVC5\Modelos\Repositorio.cs:linha 217
+----------------------------------------
+Source: EntityFramework
+----------------------------------------
+20/07/2019 23:06:52
+Message: Valor não pode ser nulo.
+Nome do parâmetro: entity
+----------------------------------------
+StackTrace:    em System.Data.Entity.Utilities.Check.NotNull[T](T value, String parameterName)
+   em System.Data.Entity.DbSet`1.Attach(TEntity entity)
+   em Modelos.Repositorio`1.Delete(TEntity toDelete) na C:\GitHub\ProjetoASPNETMVC5\ASPNETMVC5\Modelos\Repositorio.cs:linha 68
+----------------------------------------
+Source: EntityFramework
+----------------------------------------

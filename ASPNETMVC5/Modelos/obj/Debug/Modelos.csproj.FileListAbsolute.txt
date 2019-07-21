@@ -1,0 +1,13 @@
+C:\GitHub\ProjetoASPNETMVC5\ASPNETMVC5\Modelos\bin\Debug\Modelos.dll.config
+C:\GitHub\ProjetoASPNETMVC5\ASPNETMVC5\Modelos\bin\Debug\Modelos.dll
+C:\GitHub\ProjetoASPNETMVC5\ASPNETMVC5\Modelos\bin\Debug\Modelos.pdb
+C:\GitHub\ProjetoASPNETMVC5\ASPNETMVC5\Modelos\bin\Debug\EntityFramework.dll
+C:\GitHub\ProjetoASPNETMVC5\ASPNETMVC5\Modelos\bin\Debug\EntityFramework.SqlServer.dll
+C:\GitHub\ProjetoASPNETMVC5\ASPNETMVC5\Modelos\bin\Debug\MetodosDeExtension.dll
+C:\GitHub\ProjetoASPNETMVC5\ASPNETMVC5\Modelos\bin\Debug\EntityFramework.xml
+C:\GitHub\ProjetoASPNETMVC5\ASPNETMVC5\Modelos\bin\Debug\EntityFramework.SqlServer.xml
+C:\GitHub\ProjetoASPNETMVC5\ASPNETMVC5\Modelos\obj\Debug\Modelos.csprojAssemblyReference.cache
+C:\GitHub\ProjetoASPNETMVC5\ASPNETMVC5\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\GitHub\ProjetoASPNETMVC5\ASPNETMVC5\Modelos\obj\Debug\Modelos.csproj.CopyComplete
+C:\GitHub\ProjetoASPNETMVC5\ASPNETMVC5\Modelos\obj\Debug\Modelos.dll
+C:\GitHub\ProjetoASPNETMVC5\ASPNETMVC5\Modelos\obj\Debug\Modelos.pdb

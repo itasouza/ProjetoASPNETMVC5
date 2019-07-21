@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNETMVC5", "ASPNETMVC5\ASPNETMVC5.csproj", "{8662C094-E6B4-4312-A739-7EC8BB2CCEB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelos", "Modelos\Modelos.csproj", "{92409772-7EFB-42C9-8CDE-DF6D6377A2D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teste", "Teste\Teste.csproj", "{593A9779-83AC-4968-8603-7C1E875C55F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8662C094-E6B4-4312-A739-7EC8BB2CCEB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8662C094-E6B4-4312-A739-7EC8BB2CCEB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8662C094-E6B4-4312-A739-7EC8BB2CCEB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8662C094-E6B4-4312-A739-7EC8BB2CCEB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92409772-7EFB-42C9-8CDE-DF6D6377A2D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92409772-7EFB-42C9-8CDE-DF6D6377A2D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92409772-7EFB-42C9-8CDE-DF6D6377A2D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92409772-7EFB-42C9-8CDE-DF6D6377A2D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{593A9779-83AC-4968-8603-7C1E875C55F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{593A9779-83AC-4968-8603-7C1E875C55F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{593A9779-83AC-4968-8603-7C1E875C55F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{593A9779-83AC-4968-8603-7C1E875C55F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B2923C2-3443-4699-975E-1A8DD139FF8F}
+	EndGlobalSection
+EndGlobal
